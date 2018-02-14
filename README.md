@@ -5,7 +5,7 @@
 
 [![Last-changedate](https://img.shields.io/badge/last%20change-2018--02--13-yellowgreen.svg)](/commits/master)
 
-[![DOI](https://zenodo.org/badge/90825285.svg)](https://zenodo.org/badge/latestdoi/90825285)
+[![DOI](https://zenodo.org/badge/121478971.svg)](https://zenodo.org/badge/latestdoi/121478971)
 
 # IliamnaSealsTrendPVA
 ## An R package in support of publication, "A Bayesian Analysis of Abundance, Trend and Population Viability for Harbor Seals in Iliamna Lake, Alaska." 
