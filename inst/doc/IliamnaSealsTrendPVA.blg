@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: IliamnaSealsTrendPVA.aux
+The style file: consbiol.bst
+Database file #1: /mnt/Hitachi2GB/shTex/StatBibTex.bib.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 65 entries,
+            3209 wiz_defined-function locations,
+            1103 strings with 19698 characters,
+and the built_in function-call counts, 41995 in all, are:
+= -- 3543
+> -- 1935
+< -- 53
++ -- 1464
+- -- 501
+* -- 2690
+:= -- 6078
+add.period$ -- 213
+call.type$ -- 65
+change.case$ -- 513
+chr.to.int$ -- 71
+cite$ -- 65
+duplicate$ -- 3027
+empty$ -- 2988
+format.name$ -- 671
+if$ -- 8427
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 605
+newline$ -- 339
+num.names$ -- 272
+pop$ -- 1466
+preamble$ -- 1
+purify$ -- 423
+quote$ -- 0
+skip$ -- 1247
+stack$ -- 0
+substring$ -- 2090
+swap$ -- 1477
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 579
+warning$ -- 0
+while$ -- 304
+width$ -- 0
+write$ -- 874

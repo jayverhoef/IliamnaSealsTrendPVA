@@ -1,0 +1,11 @@
+Package: IliamnaSealsTrendPVA 
+Type: Package
+Title: Trend and Population Viability Analysis for Iliamna Harbor Seals
+Version: 1.0
+Date: 2017-04-21
+LazyLoad: yes
+Author: Jay Ver Hoef
+Maintainer: Jay Ver Hoef <jay.verhoef@noaa.gov>
+Description: Trend and Population Viability Analysis for Iliamna Seals
+License: GPL-2
+RoxygenNote: 6.0.1

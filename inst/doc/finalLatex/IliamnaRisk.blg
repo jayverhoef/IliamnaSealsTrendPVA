@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: IliamnaRisk.aux
+The style file: jmods.bst
+Database file #1: /media/jay/Hitachi2GB/shTex/StatBibTex.bib.bib
+You've used 65 entries,
+            2805 wiz_defined-function locations,
+            1498 strings with 26492 characters,
+and the built_in function-call counts, 38213 in all, are:
+= -- 3319
+> -- 1476
+< -- 51
++ -- 582
+- -- 502
+* -- 2935
+:= -- 6039
+add.period$ -- 129
+call.type$ -- 65
+change.case$ -- 494
+chr.to.int$ -- 66
+cite$ -- 65
+duplicate$ -- 2736
+empty$ -- 2829
+format.name$ -- 671
+if$ -- 7540
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 566
+newline$ -- 199
+num.names$ -- 272
+pop$ -- 1058
+preamble$ -- 1
+purify$ -- 423
+quote$ -- 0
+skip$ -- 1007
+stack$ -- 0
+substring$ -- 2086
+swap$ -- 1477
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 579
+warning$ -- 0
+while$ -- 303
+width$ -- 0
+write$ -- 729
